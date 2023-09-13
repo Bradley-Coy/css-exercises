@@ -1,0 +1,12 @@
+.black_bg,
+.yellow_bg {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+.yellow_bg {
+    background-color: yellow;
+}
+.black_bg {
+    background-color: black;
+    color: white;
+}

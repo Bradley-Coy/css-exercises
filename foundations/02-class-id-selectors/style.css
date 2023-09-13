@@ -1,0 +1,19 @@
+#blue_text {
+    color: #0000FF;
+    font-size: 36px;
+
+}
+
+
+.odd {
+    background-color: #FFC0CB;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+#font-size {
+    font-size: 24px;
+}
+
+#four {
+    background-color: #90EE90;
+    font-weight: bold;
+}

@@ -1,14 +1,16 @@
-#blue_text {
-    color: #0000FF;
-    font-size: 36px;
-
-}
 
 
 .odd {
     background-color: #FFC0CB;
     font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
+
+#two {
+    color: #0000FF;
+    font-size: 36px;
+
+}
+
 #font-size {
     font-size: 24px;
 }
